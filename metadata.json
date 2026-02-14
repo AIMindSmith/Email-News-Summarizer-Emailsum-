@@ -1,0 +1,5 @@
+{
+  "name": "EmailSum: Newsletter Architect",
+  "description": "A high-performance email summarizer that automatically ingests, categorizes, and distills complex newsletters into actionable insights using Gemini AI.",
+  "requestFramePermissions": []
+}
